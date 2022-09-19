@@ -1,0 +1,8 @@
+C:\Users\joanj\source\repos\Asignación 3 - Producto - Categoría\Asignación 3 - Producto - Categoría\bin\Debug\Asignación 3 - Producto - Categoría.exe.config
+C:\Users\joanj\source\repos\Asignación 3 - Producto - Categoría\Asignación 3 - Producto - Categoría\bin\Debug\Asignación 3 - Producto - Categoría.exe
+C:\Users\joanj\source\repos\Asignación 3 - Producto - Categoría\Asignación 3 - Producto - Categoría\bin\Debug\Asignación 3 - Producto - Categoría.pdb
+C:\Users\joanj\source\repos\Asignación 3 - Producto - Categoría\Asignación 3 - Producto - Categoría\obj\Debug\Asignación 3 - Producto - Categoría.csproj.AssemblyReference.cache
+C:\Users\joanj\source\repos\Asignación 3 - Producto - Categoría\Asignación 3 - Producto - Categoría\obj\Debug\Asignación 3 - Producto - Categoría.csproj.SuggestedBindingRedirects.cache
+C:\Users\joanj\source\repos\Asignación 3 - Producto - Categoría\Asignación 3 - Producto - Categoría\obj\Debug\Asignación 3 - Producto - Categoría.csproj.CoreCompileInputs.cache
+C:\Users\joanj\source\repos\Asignación 3 - Producto - Categoría\Asignación 3 - Producto - Categoría\obj\Debug\Asignación 3 - Producto - Categoría.exe
+C:\Users\joanj\source\repos\Asignación 3 - Producto - Categoría\Asignación 3 - Producto - Categoría\obj\Debug\Asignación 3 - Producto - Categoría.pdb
